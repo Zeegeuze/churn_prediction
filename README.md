@@ -1,9 +1,10 @@
 ## Churn Prediction
 
-![Project Image](master.jpg)
+![Project Image](data/master.jpg)
 
 ## Overview
 This project involves the application of clustering techniques to customer data from a financial institution. The goal is to segment customers based on demographic and transactional behavior to identify meaningful customer groups. These insights can be used for targeted marketing, personalized offers, and improved customer retention strategies.
+
 ---
 
 ## Dataset
