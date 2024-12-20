@@ -97,32 +97,27 @@ CHURN_PREDICTION/
 ├── main.ipynb                                   # Main Jupyter notebook
 ├── README.md                                    # Project README file
 └── requirements.txt                             # List of dependencies
-```
---- 
 
+````
 
+---
 ## **How to Run the Code**
 ### **1. Install Dependencies**
 To run the project, you’ll need to install the required dependencies. You can use the following command to install them using **pip**:
+
+```
 ````bash
 pip install -r requirements.txt
+```
 ```
 If you don't have a `requirements.txt` file yet, you can generate it by running:
 ````bash
 pip freeze > requirements.txt
 ```
-Here is a sample **requirements.txt**:
-````bash
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-xgboost
-imbalanced-learn
-```
+
 ---
-### **2. Run the Notebook**
+
+## **2. Run the Notebook**
 - Open the **Jupyter notebook** file (`churn_prediction_final_updated_with_xgb.ipynb`) using Jupyter or any IDE that supports Jupyter notebooks (e.g., VSCode).
 - Run the cells sequentially to load the data, preprocess it, train the models, and visualize the results.
 ---
@@ -134,7 +129,7 @@ imbalanced-learn
 
 ---
 
-📞 **Contact Information:**
+## **Contact Information:**
 
 In case of any questions or help, feel free to reach out:
 
